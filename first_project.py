@@ -1,7 +1,4 @@
-name = input("What is your name?")
-print("My name is "+ name)
-address = input("Where do you live?")
-print("I live in "+ address)
+ 
 
 # git config 
 #  git config --global user.email "you@example.com"
@@ -14,4 +11,10 @@ print("I live in "+ address)
 
 
 # to commit the change
-# git commit -m "Message"
+# git commit -m "Message" 
+
+# view commit History
+# git log
+
+# view in oneline 
+# git log --oneline
