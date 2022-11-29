@@ -18,3 +18,6 @@
 
 # view in oneline 
 # git log --oneline
+
+# back on previous line 
+#  git checkout 89do9
