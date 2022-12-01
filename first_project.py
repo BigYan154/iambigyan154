@@ -20,4 +20,15 @@
 # git log --oneline
 
 # back on previous line 
-#  git checkout 89do9
+# git checkout 89do9
+# go to recent project
+# git checkout master
+
+
+
+# project attach on github
+# add reposatory link on terminal
+
+
+# push our code to github
+# git push origin master
